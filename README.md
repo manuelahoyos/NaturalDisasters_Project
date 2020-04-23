@@ -1,5 +1,6 @@
 # Natural Disasters Analysis
 Group project in which data about natural disasters around the globe were analyzed and results were visualized using Python, Pandas, Matplotlib, JavaScript, D3 and HTML/CSS.
+The objective was to analyze if the change in average land temperature has an effect on magnitude of earthquakes, number of earthquakes with magnitudes of 5.5 and higher, number of tsunamis and number of volcanic eruptions. 
 
 
 ## Comparison of Average Land Temperature and Earthquake Magnitude Using JavaScript and D3:
