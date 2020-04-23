@@ -19,6 +19,27 @@ DATASETS CONTIANING AVERAGE LDN TEMP CLEANED USIG PANDAS AND DATAFRAMES CONTIANI
 
 
 
+
+
+
+
+
+Historical_Tsunami_Event_Locations.csv
+
+volcanoes.csv
+
+earthquakes.csv
+
+GlobalLandTemperatures_ByCountry.csv.  1990-2014)
+
+Azerbaijan", "Colombia", "United States", "Italy", "France",
+                "Cuba", "Iran", "Egypt", "China", "Turkey", "India", "Russia",
+                'Georgia', 'Bulgaria', 'Afghanistan', 'Pakistan', 'Serbia',
+                "Mexico", "Japan", "Georgia", "Thailand",
+                "Puerto Rico", "Norway", "Indonesia"
+
+
+
 ![Image description](images/TumorResponse.png)
 
 <img src="images/precipitation.png" width="600">
