@@ -8,7 +8,7 @@ The datasets ‘GlobalLandTemperatures.csv’and ‘Earthquakes.csv’were clean
 
 The comparison between average land temperature and average magnitude of earthquakes was plotted using JavaScript and D3. A scatterplot was created within the app.js file using JavaScript and D3. The data was pulled from the csv files and the d3.select() function was used to append the graph into the HTML file. CSS was used for both the HTML page styling and the scatterplot styling. D3 was used for animations, transitions, click events on the y labels, and tooltips when the cursor hovers over the state circles.
 
-<img src="images/precipitation.png" width="600">
+<img src="images/D3graphs.png" width="600">
 
 
 
