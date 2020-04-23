@@ -5,7 +5,7 @@ var margin = {
   top: 20,
   right: 40,
   bottom: 200,
-  left: 100
+  left: 150
 };
 
 var width = svgWidth - margin.left - margin.right;
