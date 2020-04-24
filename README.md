@@ -4,15 +4,9 @@ The objective was to analyze if the change in average land temperature has an ef
 
 ## Average Land Temperature Change Over the Years:
 
-GlobalLandTemperatures_ByCountry.csv
+The dataset 'GlobalLandTemperatures_ByCountry.csv' was cleaned using Python and Pandas, to extract the average land temperature of specific countries during the years 1960 - 2013. The average land temperature for these countries was plotted against the years to analyze the change over time using Matplotlib. 
 
-
-"Azerbaijan", "Colombia", "United States", "Italy", "France",
-                "Cuba", "Iran", "Egypt", "China", "Turkey", "India", "Russia",
-                'Georgia', 'Bulgaria', 'Afghanistan', 'Pakistan', 'Serbia',
-                "Mexico", "Japan", "Georgia", "Thailand",
-                "Puerto Rico", "Norway", "Indonesia"
-1960-2013
+<img src="images/land_tempIndex.png" width="900">
 
 ## Number of Tsunamis Over the Years:
 
