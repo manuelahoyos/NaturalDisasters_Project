@@ -39,7 +39,7 @@ The change in land temperature was compared to the number of tsunamis, number of
 
 <img src="images/landVolcano.png" width="800">
 
-- Comparison of the number of earthquakes during the years 2000 - 2013 with a minimum magnitude of 5.5 to the change in land temperature during the years 2000-2013, using Matplotlib. 
+- Comparison of the number of earthquakes with a minimum magnitude of 5.5 during the years 2000 - 2013 to the change in land temperature during the years 2000-2013, using Matplotlib. 
 
 <img src="images/landEarthquakes.png" width="800">
 
