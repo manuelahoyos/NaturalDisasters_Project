@@ -12,27 +12,28 @@ The dataset 'GlobalLandTemperatures_ByCountry.csv' was cleaned using Python and 
 
 The dataset 'Historical_Tsunami_Event_Locations.csv' was cleaned using Python and Pandas, to extract the number of tsunamis during the years 1990 - 2014 for several countries around the globe. The results were compared to the change in land temperature during the years 1990-2013. The results were graphed using Matplotlib. 
 
-
+<img src="images/Tsunami.png" width="900">
 
 ## Number of Volcanic Eruptions Over the Years:
-volcanoes.csv
 
+The dataset 'volcanoes.csv' was cleaned using Python and Pandas, to extract the number of tsunamis during the years 1990 - 2014 for several countries around the globe. The results were compared to the change in land temperature during the years 1990-2013. The results were graphed using Matplotlib. 
 
-the change in land temperature during the years 1990-2013
+<img src="images/Tsunami.png" width="900">
+
 
 ## Number of Earthquakes Over the Years:
-earthquakes.csv
 
-the change in land temperature during the years 1990-2013
+The dataset 'earthquakes.csv' was cleaned using Python and Pandas, to extract the number of tsunamis during the years 1990 - 2014 for several countries around the globe. The results were compared to the change in land temperature during the years 1990-2013. The results were graphed using Matplotlib. 
 
 ## Comparison:
 
 The change in land temperature during the years 1990-2013 was compared to the results found in the previous analyses. The change in land temperature during this period was analyzed against the number of tsunamis during, the number of volcanic eruptions during and the number of earthquakes of magnitude 5.5 and higher during. 
 
+<img src="images/Tsunami.png" width="900">
 
+<img src="images/Tsunami.png" width="900">
 
-
-
+<img src="images/Tsunami.png" width="900">
 
 
 ## Comparison of Average Land Temperature and Earthquake Magnitude Using JavaScript and D3:
