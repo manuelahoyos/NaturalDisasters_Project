@@ -31,11 +31,11 @@ The dataset 'earthquakes.csv' was cleaned using Python and Pandas, to extract th
 
 The change in land temperature during the years 1990-2013 was compared to the results found in the previous analyses. The change in land temperature during this period was analyzed against the number of tsunamis during, the number of volcanic eruptions during and the number of earthquakes of magnitude 5.5 and higher during. 
 
-<img src="images/landTsunami.png" width="900">
+<img src="images/landTsunamis.png" width="800">
 
-<img src="images/landVolcano.png" width="900">
+<img src="images/landVolcano.png" width="800">
 
-<img src="images/landEarthquakes.png" width="900">
+<img src="images/landEarthquakes.png" width="800">
 
 
 ## Comparison of Average Land Temperature and Earthquake Magnitude Using JavaScript and D3:
