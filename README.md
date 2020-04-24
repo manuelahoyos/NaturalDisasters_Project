@@ -4,16 +4,25 @@ The objective was to analyze if the change in average land temperature has an ef
 
 ## Average Land Temperature Change Over the Years:
 
+GlobalLandTemperatures_ByCountry.csv
+
+
+"Azerbaijan", "Colombia", "United States", "Italy", "France",
+                "Cuba", "Iran", "Egypt", "China", "Turkey", "India", "Russia",
+                'Georgia', 'Bulgaria', 'Afghanistan', 'Pakistan', 'Serbia',
+                "Mexico", "Japan", "Georgia", "Thailand",
+                "Puerto Rico", "Norway", "Indonesia"
+1960-2013
 
 ## Number of Tsunamis Over the Years:
 
-
+Historical_Tsunami_Event_Locations.csv
 
 ## Number of Volcanic Eruptions Over the Years:
-
+volcanoes.csv
 
 ## Number of Earthquakes Over the Years:
-
+earthquakes.csv
 
 ## Comparison:
 
