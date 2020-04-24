@@ -16,7 +16,7 @@ The dataset 'Historical_Tsunami_Event_Locations.csv' was cleaned using Python an
 
 ## Number of Volcanic Eruptions Over the Years:
 
-The dataset 'volcanoes.csv' was cleaned using Python and Pandas, to extract the number of tsunamis during the years 1990 - 2014 for several countries around the globe. The results were compared to the change in land temperature during the years 1990-2013. The results were graphed using Matplotlib. 
+The dataset 'volcanoes.csv' was cleaned using Python and Pandas, to extract the number of volcanic eruptions during the years 1990 - 2013 for several countries around the globe. The results were compared to the change in land temperature during the years 1990-2013. The results were graphed using Matplotlib. 
 
 <img src="images/Tsunami.png" width="900">
 
