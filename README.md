@@ -4,26 +4,26 @@ The objective was to analyze if the change in average land temperature has an ef
 
 ## Average Land Temperature Change Over the Years:
 
-The dataset 'GlobalLandTemperatures_ByCountry.csv' was cleaned using Python and Pandas, to extract the average land temperature of specific countries during the years 1960 - 2013. The average land temperature for these countries was plotted against the years to analyze the change over time using Matplotlib. 
+The dataset 'GlobalLandTemperatures_ByCountry.csv' was cleaned using Python and Pandas, to extract the average land temperature of specific countries during the years 1960 - 2013 using Matplotlib. 
 
 <img src="images/land_tempIndex.png" width="900">
 
 ## Number of Tsunamis Over the Years:
 
-The dataset 'Historical_Tsunami_Event_Locations.csv' was cleaned using Python and Pandas, to extract the number of tsunamis during the years 1990 - 2014 for several countries around the globe. The results were compared to the change in land temperature during the years 1990-2013. The results were graphed using Matplotlib. 
+The dataset 'Historical_Tsunami_Event_Locations.csv' was cleaned using Python and Pandas, to extract the number of tsunamis during the years 1990 - 2014 for several countries around the globe using Matplotlib. 
 
 <img src="images/Tsunami.png" width="900">
 
 ## Number of Volcanic Eruptions Over the Years:
 
-The dataset 'volcanoes.csv' was cleaned using Python and Pandas, to extract the number of volcanic eruptions during the years 1990 - 2013 for several countries around the globe. The results were compared to the change in land temperature during the years 1990-2013. The results were graphed using Matplotlib. 
+The dataset 'volcanoes.csv' was cleaned using Python and Pandas, to extract the number of volcanic eruptions during the years 1990 - 2013 for several countries around the globe using Matplotlib. 
 
 <img src="images/volcanos.png" width="900">
 
 
 ## Number of Earthquakes Over the Years:
 
-The dataset 'earthquakes.csv' was cleaned using Python and Pandas, to extract the number of earthquakes during the years 2000 - 2013 with a minimum magnitude of 5.5 for several countries around the globe. The results were compared to the change in land temperature during the years 2000-2013. The results were graphed using Matplotlib. 
+The dataset 'earthquakes.csv' was cleaned using Python and Pandas, to extract the number of earthquakes during the years 2000 - 2013 with a minimum magnitude of 5.5 for several countries around the globe using Matplotlib. 
 
 <img src="images/earthquakes.png" width="900">
 
