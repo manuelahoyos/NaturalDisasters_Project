@@ -23,7 +23,7 @@ The dataset 'volcanoes.csv' was cleaned using Python and Pandas, to extract the 
 
 ## Number of Earthquakes Over the Years:
 
-The dataset 'earthquakes.csv' was cleaned using Python and Pandas, to extract the number of tsunamis during the years 1990 - 2014 for several countries around the globe. The results were compared to the change in land temperature during the years 1990-2013. The results were graphed using Matplotlib. 
+The dataset 'earthquakes.csv' was cleaned using Python and Pandas, to extract the number of earthquakes during the years 2000 - 2013 with a minimum magnitude of 5.5 for several countries around the globe. The results were compared to the change in land temperature during the years 2000-2013. The results were graphed using Matplotlib. 
 
 ## Comparison:
 
