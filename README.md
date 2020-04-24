@@ -1,6 +1,6 @@
 # Natural Disasters Analysis
 Group project in which data about natural disasters around the globe were analyzed and results were visualized using Python, Pandas, Matplotlib, JavaScript, D3 and HTML/CSS.
-The objective was to analyze if the change in average land temperature has an effect on magnitude of earthquakes, number of earthquakes with magnitudes of 5.5 and higher, number of tsunamis and number of volcanic eruptions. 
+The objective was to analyze if the change in average land temperature has an effect on number of tsunamis, number of volcanic eruptions, number of earthquakes with magnitudes of 5.5 and higher, and magnitude of earthquakes,
 
 ## Average Land Temperature Change Over the Years:
 
@@ -29,11 +29,17 @@ The dataset 'earthquakes.csv' was cleaned using Python and Pandas, to extract th
 
 ## Comparison:
 
-The change in land temperature during the years 1990-2013 was compared to the results found in the previous analyses. The change in land temperature during this period was analyzed against the number of tsunamis during, the number of volcanic eruptions during and the number of earthquakes of magnitude 5.5 and higher during. 
+The change in land temperature was compared to the number of tsunamis, number of volcanic eruptions and number of earthquakes with magnitudes of 5.5 and higher during specific years found in the previous analyses. 
+
+- Comparison of number of tsunamis during the years 1990 - 2014 to the change in land temperature during the years 1990-2013, using Matplotlib. 
 
 <img src="images/landTsunamis.png" width="800">
 
+- Comparison of number of volcanic eruptions during the years 1990 - 2013 to the change in land temperature during the years 1990-2013, using Matplotlib. 
+
 <img src="images/landVolcano.png" width="800">
+
+- Comparison of the number of earthquakes during the years 2000 - 2013 with a minimum magnitude of 5.5 to the change in land temperature during the years 2000-2013, using Matplotlib. 
 
 <img src="images/landEarthquakes.png" width="800">
 
