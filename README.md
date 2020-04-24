@@ -15,7 +15,7 @@ The objective was to analyze if the change in average land temperature has an ef
 ## Number of Earthquakes Over the Years:
 
 
-## Comparison Page:
+## Comparison:
 
 
 ## Comparison of Average Land Temperature and Earthquake Magnitude Using JavaScript and D3:
